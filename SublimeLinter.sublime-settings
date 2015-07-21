@@ -18,7 +18,8 @@
         "passive_warnings": false,
         "paths": {
             "linux": [
-                "/home/plypy/.nvm/v0.10.38/bin/"
+                "/home/plypy/.nvm/v0.12.6/bin/",
+                "/home/plypy/.nvm/v0.10.40/bin/"
             ],
             "osx": [],
             "windows": []
