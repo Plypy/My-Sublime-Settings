@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Block Cursor Everywhere",
+		"Bootstrap 3 Jade Snippets",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Jade",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Terminal"
+	]
+}
